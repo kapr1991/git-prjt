@@ -2,5 +2,3 @@ This is the first file. simple test file.
 
 This is modification for update file.
 
-
-updated for ignore the file.
